@@ -27,7 +27,6 @@ Port 2022
 #SyslogFacility AUTH
 LogLevel EMERG
 
-# Authentication:
 
 #LoginGraceTime 2m
 PermitRootLogin yes
